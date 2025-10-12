@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A CS Sophomore from Pakistan. I am very passionate about Data Analysis and Software Development.</h3>
+<h3 align="center">A CS Junior from Pakistan. I am very passionate about Data Analysis and Software Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codelab66" alt="codelab66" /></a> </p>
 
